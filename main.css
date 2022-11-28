@@ -1,0 +1,12 @@
+
+.A1 {
+    width: 230px;
+   height: 30px;
+   background-color: forestgreen;
+   display: flex;
+
+}
+canvas {
+   border: 3px blue solid;
+}
+
